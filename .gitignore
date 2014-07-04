@@ -15,5 +15,4 @@ build/
 bin/
 target/
 pom.xml.versionsBackup
-/.classpath
 /.project
