@@ -146,6 +146,7 @@
                 <artifactId>maven-deploy-plugin</artifactId>
             </plugin>
         </plugins>
+    </build>
     <scm>
         <connection>scm:git@github.com:smukherji/connect2id-code-samples.git</connection>
         <developerConnection>scm:git@github.com:smukherji/connect2id-code-samples.git</developerConnection>
